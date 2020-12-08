@@ -1,0 +1,30 @@
+.dropdown {
+	display: inline-block;
+	text-align: center;
+	align-content: center;
+}
+
+.dropdown-child {
+	border: medium;
+	border-color: black;
+	display: none;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+.dropdown-child a{
+	margin-top: 10px;
+	color: black;
+	text-align: center;
+	align-content: center;
+	padding:3px;
+	text-decoration: none;
+	display: contents;
+}
+
+.dropdown:hover .dropdown-child {
+	margin-top: 10px;
+	display: block;
+	text-align: center;
+}

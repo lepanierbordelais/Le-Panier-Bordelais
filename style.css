@@ -1,0 +1,74 @@
+
+@import url("Css/Components/Button.css");
+@import url("Css/Components/Container.css");
+@import url("Css/Components/Zoom.css");
+@import url("Css/Components/Dropdown.css");
+@import url("Css/Components/Table.css");
+@import url("Css/Components/Link.css");
+@import url("Css/Components/Form.css");
+@import url("Css/Components/Card.css");
+
+header{
+	height: 250px;
+}
+
+body{
+  margin-right:20px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-family: Lucida Sans Unicode;
+  background-color: white;
+}
+
+h1{
+	font-size: 40px;
+	font-weight: lighter;
+}
+
+a{
+	color: black;
+	 font-size: 16px;
+	 text-decoration: none;
+}
+
+li{
+	list-style: none;
+	align-content: left;
+}
+
+ul{
+	margin:0 0 0 0;
+	padding: 0 0 0 0;
+}
+ @media (max-width: 1300px){
+ 	.container{
+ 		width: 1150px
+ 	 }
+ }
+ 
+@media (max-width: 960px) {
+	.container{
+		width: 700px
+	}
+}
+
+@media (max-width: 720px){
+	.container{
+		width: 500px
+	}
+}
+
+@media (max-width:540px ){
+	.container{
+		width:300px;
+	}
+}
+
+.center{
+	margin-bottom: 30px;
+}
+
+.corner{
+	border-radius: 20px;
+	box-shadow: 10px 10px 30px rgba(0,0,0,0.3);
+}

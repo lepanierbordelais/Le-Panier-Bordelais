@@ -1,0 +1,14 @@
+.form{
+	border: none;
+	margin-left: 100px;
+}
+
+.form-lines{
+	border-bottom: solid  2px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-color: black;
+	height: 30px;
+	width: 300px;
+}

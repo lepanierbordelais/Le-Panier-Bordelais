@@ -1,0 +1,9 @@
+.Link-CGV {
+	color: blue;
+	cursor: pointer;
+}
+
+.Link-CGV:hover{
+	color: blue;
+	text-decoration: underline;
+}

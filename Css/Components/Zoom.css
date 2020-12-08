@@ -1,0 +1,28 @@
+.zoom1.zoom2{
+    overflow: hidden;
+    position: relative; 
+}
+
+.zoom1 .zoom2 .zoom3 .zoom4 img{
+    max-width: 100%;
+    -moz-transition: all 30s linear;
+    -webkit-transition: all 30s linear;
+    transition: all 30s linear;        
+}
+            
+.zoom1:hover .zoom2 img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.zoom3.zoom4{
+    overflow: hidden;
+    position: relative;
+}
+            
+.zoom3:hover .zoom4 img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}

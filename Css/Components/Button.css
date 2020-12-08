@@ -1,0 +1,80 @@
+.button-cart{
+	border: large;
+	border-color: black;
+	background-color: white;
+	color: black;
+	padding: 20px 65px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.button-cart:hover {
+	background-color:black;
+	color:white;
+}
+
+.button-facebook{
+	border: none;
+	background-color:white;
+	padding: 10px 30px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button-facebook:hover i{
+	background-color:white ;
+	color:#1093f4;
+}
+
+.button-instagram{
+	border: none;
+	border-color: white;
+	background-color:white;
+	padding: 10px 30px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button-instagram:hover i{
+	background-color:white ;
+	color:#f34c4e;
+}
+
+.button-twitter{
+	border: none;
+	border-color: white;
+	background-color:white;
+	padding: 10px 30px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button-twitter:hover i{
+	background-color:white ;
+	color:#52A7E8;
+}
+
+.button-inscription{
+	border: large;
+	border-radius: 5px;
+	border-color: black;
+	background-color: white;
+	color: black;
+	padding: 20px 65px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button-inscription:hover{
+	background-color: black;
+}
+
+.button-inscription:hover a{
+	color: white;
+}

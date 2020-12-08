@@ -78,3 +78,7 @@
 .button-inscription:hover a{
 	color: white;
 }
+
+.button-center{
+	margin-bottom: 20px;
+}

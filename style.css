@@ -40,6 +40,11 @@ ul{
 	margin:0 0 0 0;
 	padding: 0 0 0 0;
 }
+
+p{
+	text-align: center;
+}
+
  @media (max-width: 1300px){
  	.container{
  		width: 1150px

@@ -10,3 +10,12 @@
 	margin:10px;
 	text-align:center;
 	align-content: center;
+}
+
+.card-orange{
+	background-color: #FFAC4D;
+	text-align: center;
+	align-content: center;
+	margin-left: 5px;
+	margin-right: 5px;
+}

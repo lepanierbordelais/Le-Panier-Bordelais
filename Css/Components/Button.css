@@ -1,6 +1,6 @@
 .button-cart{
-	border: large;
-	border-color: black;
+	border: none;
+	border-color: #431259;
 	background-color: white;
 	color: black;
 	padding: 20px 65px;
@@ -8,10 +8,11 @@
 	font-size: 14px;
 	cursor: pointer;
 	border-radius: 5px;
-}
+}	
+
 
 .button-cart:hover {
-	background-color:black;
+	background-color:#431259;
 	color:white;
 }
 
@@ -81,4 +82,14 @@
 
 .button-center{
 	margin-bottom: 20px;
+}
+.button-orange{
+	border:none;
+	background-color: #FFAA49;
+	color: black;
+	padding: 20px 65px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 5px;
 }
